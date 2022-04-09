@@ -12,7 +12,7 @@
   "homepage": "https://iambcho.github.io/mybudgetapp",
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.12.0",
     "sortable": "^2.0.0"
   },
